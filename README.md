@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /> Tela de Login – HTML & CSS
+# Tela de Login – HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo"  /> & CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  /> 
 
 Este projeto consiste no desenvolvimento de uma tela de login responsiva utilizando apenas **HTML** e **CSS**.  
 A proposta é criar o layout sem seguir um passo a passo pré-estabelecido, incentivando o raciocínio lógico, a criatividade e a independência na construção da interface.
